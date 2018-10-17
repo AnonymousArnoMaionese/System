@@ -6,4 +6,16 @@ public class Main {
 		
 	}
 
+	public void onEnable() {
+		
+	}
+
+	public void onLoad() {
+		
+	}
+
+	public void onDisable() {
+		
+	}
+	
 }
