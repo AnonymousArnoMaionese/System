@@ -10,10 +10,6 @@ public class Main {
 		
 	}
 
-	public void onLoad() {
-		
-	}
-
 	public void onDisable() {
 		
 	}
